@@ -18,7 +18,7 @@ img {
 }
 
 .pics {
-  background-image: url(/img/Wood-Textures.jpg);
+  background-image: url(./img/Wood-Textures.jpg);
   background-size: 100%;
   background-position: center;
 }
