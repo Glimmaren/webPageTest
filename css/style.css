@@ -1,5 +1,5 @@
 header {
-  background-image: url("/img/BridgeCalif.jpg");
+  background-image: url("../img/BridgeCalif.jpg");
   height: 400px;
   background-size: cover;
   background-position: center;
@@ -18,7 +18,7 @@ img {
 }
 
 .pics {
-  background-image: url(/img/Wood-Textures.jpg);
+  background-image: url(../img/Wood-Textures.jpg);
   background-size: 100%;
   background-position: center;
 }
